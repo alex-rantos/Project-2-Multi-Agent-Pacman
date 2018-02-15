@@ -15,12 +15,19 @@ Question q5: 6/6
 -----------------
 
 
-####Q1: Reflex Agent
+#### Q1: Reflex Agent
+
 I implemented a very basic function that just go for the closest food and avoids the ghost if very
 near.
-####Q2: Minimax / Q3: Alpha-Beta Pruning / Q4: Expectimax
+
+
+#### Q2: Minimax / Q3: Alpha-Beta Pruning / Q4: Expectimax
+
 These algorithms were implemented as cohesive as possible.
-####Q5: Evaluation Function
+
+
+#### Q5: Evaluation Function
+
 As Q1 but I added a few multipliers to a few variables for the final score accordingly to theirs
 significance.
 
